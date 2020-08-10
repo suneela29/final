@@ -1,0 +1,5 @@
+com\mycompany\maven\demo\Calculator.class
+com\mycompany\maven\demo\Calculator$CalculatorOp.class
+com\mycompany\maven\demo\Calculator$NumberListener.class
+com\mycompany\maven\demo\Calculator$OperatorListener.class
+com\mycompany\maven\demo\SwingCalculator.class
